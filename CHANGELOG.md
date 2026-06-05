@@ -34,6 +34,7 @@
 
 <details>
 
+-   [`4f19dd0`](https://github.com/stdlib-js/stdlib/commit/4f19dd0fddd451cd6454758b8701e813876a619f) - **chore:** follow-up corrections for recent commits [(#12557)](https://github.com/stdlib-js/stdlib/pull/12557) _(by Philipp Burckhardt)_
 -   [`22bbe10`](https://github.com/stdlib-js/stdlib/commit/22bbe10ad4b1d1d5929fe2d23f3c5318e97c7448) - **fix:** update package name _(by Athan Reines)_
 -   [`3a0597c`](https://github.com/stdlib-js/stdlib/commit/3a0597cddb16d89ade4cf3fbf7ed1422df9b0d03) - **feat:** add `fft/base/fftpack` namespace _(by Athan Reines)_
 -   [`9f0e49e`](https://github.com/stdlib-js/stdlib/commit/9f0e49e6831ff9f1b342e203ed086abbaaee636d) - **chore:** address follow-up review findings for commits merged to `develop` on 2026-05-31 [(#12430)](https://github.com/stdlib-js/stdlib/pull/12430) _(by Philipp Burckhardt)_
