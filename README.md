@@ -76,6 +76,9 @@ var o = ns;
 
 <div class="namespace-toc">
 
+-   <span class="signature">[`decompose( N, M, initial, si, oi, out, so, oo )`][@stdlib/fft/base/fftpack/decompose]</span><span class="delimiter">: </span><span class="description">factorize a sequence length into a product of integers.</span>
+-   <span class="signature">[`rffti( N, workspace, strideW, offsetW )`][@stdlib/fft/base/fftpack/rffti]</span><span class="delimiter">: </span><span class="description">initialize a workspace array for performing a real-valued Fourier transform.</span>
+
 </div>
 
 <!-- </toc> -->
@@ -184,6 +187,10 @@ Copyright &copy; 2016-2026. The Stdlib [Authors][stdlib-authors].
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/fft-base-fftpack/main/LICENSE
 
 <!-- <toc-links> -->
+
+[@stdlib/fft/base/fftpack/decompose]: https://github.com/stdlib-js/fft-base-fftpack-decompose
+
+[@stdlib/fft/base/fftpack/rffti]: https://github.com/stdlib-js/fft-base-fftpack-rffti
 
 <!-- </toc-links> -->
 

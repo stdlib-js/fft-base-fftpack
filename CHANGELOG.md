@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-06-05)
+## Unreleased (2026-06-06)
 
 <section class="features">
 
@@ -34,6 +34,7 @@
 
 <details>
 
+-   [`1c73e85`](https://github.com/stdlib-js/stdlib/commit/1c73e851e01cf30b72e2b478d0b3a4c4386bd4a0) - **docs:** update namespace ToCs _(by Athan Reines)_
 -   [`4f19dd0`](https://github.com/stdlib-js/stdlib/commit/4f19dd0fddd451cd6454758b8701e813876a619f) - **chore:** follow-up corrections for recent commits [(#12557)](https://github.com/stdlib-js/stdlib/pull/12557) _(by Philipp Burckhardt)_
 -   [`22bbe10`](https://github.com/stdlib-js/stdlib/commit/22bbe10ad4b1d1d5929fe2d23f3c5318e97c7448) - **fix:** update package name _(by Athan Reines)_
 -   [`3a0597c`](https://github.com/stdlib-js/stdlib/commit/3a0597cddb16d89ade4cf3fbf7ed1422df9b0d03) - **feat:** add `fft/base/fftpack` namespace _(by Athan Reines)_
