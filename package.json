@@ -36,6 +36,7 @@
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
   "dependencies": {
+    "@stdlib/fft-base-fftpack-cffti": "github:stdlib-js/fft-base-fftpack-cffti#main",
     "@stdlib/fft-base-fftpack-decompose": "github:stdlib-js/fft-base-fftpack-decompose#main",
     "@stdlib/fft-base-fftpack-rffti": "github:stdlib-js/fft-base-fftpack-rffti#main",
     "@stdlib/utils-define-read-only-property": "^0.2.3"
