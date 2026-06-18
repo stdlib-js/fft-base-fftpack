@@ -37,6 +37,7 @@
 
 <details>
 
+-   [`118a1ea`](https://github.com/stdlib-js/stdlib/commit/118a1eaf28afc9be92abb582b8ca43439237d6a7) - **docs:** update namespace table of contents [(#12947)](https://github.com/stdlib-js/stdlib/pull/12947) _(by stdlib-bot)_
 -   [`6e2e1fe`](https://github.com/stdlib-js/stdlib/commit/6e2e1feeedc61cb7fe91652568033cfbe9de276e) - **feat:** update `fft/base/fftpack` TypeScript declarations [(#12946)](https://github.com/stdlib-js/stdlib/pull/12946) _(by stdlib-bot)_
 -   [`46fd304`](https://github.com/stdlib-js/stdlib/commit/46fd304d00ac69f1fb6bb3eaa8965022724aa247) - **chore:** follow-up fixes for recent commits [(#12933)](https://github.com/stdlib-js/stdlib/pull/12933) _(by Philipp Burckhardt)_
 -   [`9ea348e`](https://github.com/stdlib-js/stdlib/commit/9ea348efe3ffdfbf20263c5982bae054623f351a) - **feat:** add `cffti` to namespace _(by Athan Reines)_
