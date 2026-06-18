@@ -4,12 +4,13 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-06-17)
+## Unreleased (2026-06-18)
 
 <section class="features">
 
 ### Features
 
+-   [`6e2e1fe`](https://github.com/stdlib-js/stdlib/commit/6e2e1feeedc61cb7fe91652568033cfbe9de276e) - update `fft/base/fftpack` TypeScript declarations [(#12946)](https://github.com/stdlib-js/stdlib/pull/12946)
 -   [`9ea348e`](https://github.com/stdlib-js/stdlib/commit/9ea348efe3ffdfbf20263c5982bae054623f351a) - add `cffti` to namespace
 -   [`61cc8a7`](https://github.com/stdlib-js/stdlib/commit/61cc8a7075fa22f699230509bbcb4628e04b41ca) - add `fft/base/fftpack/cffti` [(#12441)](https://github.com/stdlib-js/stdlib/pull/12441)
 -   [`3a0597c`](https://github.com/stdlib-js/stdlib/commit/3a0597cddb16d89ade4cf3fbf7ed1422df9b0d03) - add `fft/base/fftpack` namespace
@@ -36,6 +37,8 @@
 
 <details>
 
+-   [`6e2e1fe`](https://github.com/stdlib-js/stdlib/commit/6e2e1feeedc61cb7fe91652568033cfbe9de276e) - **feat:** update `fft/base/fftpack` TypeScript declarations [(#12946)](https://github.com/stdlib-js/stdlib/pull/12946) _(by stdlib-bot)_
+-   [`46fd304`](https://github.com/stdlib-js/stdlib/commit/46fd304d00ac69f1fb6bb3eaa8965022724aa247) - **chore:** follow-up fixes for recent commits [(#12933)](https://github.com/stdlib-js/stdlib/pull/12933) _(by Philipp Burckhardt)_
 -   [`9ea348e`](https://github.com/stdlib-js/stdlib/commit/9ea348efe3ffdfbf20263c5982bae054623f351a) - **feat:** add `cffti` to namespace _(by Athan Reines)_
 -   [`61cc8a7`](https://github.com/stdlib-js/stdlib/commit/61cc8a7075fa22f699230509bbcb4628e04b41ca) - **feat:** add `fft/base/fftpack/cffti` [(#12441)](https://github.com/stdlib-js/stdlib/pull/12441) _(by Gunj Joshi, Athan Reines)_
 -   [`30fc1af`](https://github.com/stdlib-js/stdlib/commit/30fc1afe3d3dbe8b50a93b20291f8efc6c6bdfd0) - **docs:** update notes _(by Athan Reines)_
