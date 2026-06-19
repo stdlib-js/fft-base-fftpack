@@ -4,12 +4,14 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-06-18)
+## Unreleased (2026-06-19)
 
 <section class="features">
 
 ### Features
 
+-   [`1fec441`](https://github.com/stdlib-js/stdlib/commit/1fec4414065827d596de9c1203fb28be12971433) - add `cosqi` to namespace
+-   [`bc3b79f`](https://github.com/stdlib-js/stdlib/commit/bc3b79f4c32dd99b52b52046eb5d54a33197025e) - add `fft/base/fftpack/cosqi` [(#12881)](https://github.com/stdlib-js/stdlib/pull/12881)
 -   [`6e2e1fe`](https://github.com/stdlib-js/stdlib/commit/6e2e1feeedc61cb7fe91652568033cfbe9de276e) - update `fft/base/fftpack` TypeScript declarations [(#12946)](https://github.com/stdlib-js/stdlib/pull/12946)
 -   [`9ea348e`](https://github.com/stdlib-js/stdlib/commit/9ea348efe3ffdfbf20263c5982bae054623f351a) - add `cffti` to namespace
 -   [`61cc8a7`](https://github.com/stdlib-js/stdlib/commit/61cc8a7075fa22f699230509bbcb4628e04b41ca) - add `fft/base/fftpack/cffti` [(#12441)](https://github.com/stdlib-js/stdlib/pull/12441)
@@ -37,6 +39,8 @@
 
 <details>
 
+-   [`1fec441`](https://github.com/stdlib-js/stdlib/commit/1fec4414065827d596de9c1203fb28be12971433) - **feat:** add `cosqi` to namespace _(by Athan Reines)_
+-   [`bc3b79f`](https://github.com/stdlib-js/stdlib/commit/bc3b79f4c32dd99b52b52046eb5d54a33197025e) - **feat:** add `fft/base/fftpack/cosqi` [(#12881)](https://github.com/stdlib-js/stdlib/pull/12881) _(by Gunj Joshi, Athan Reines)_
 -   [`118a1ea`](https://github.com/stdlib-js/stdlib/commit/118a1eaf28afc9be92abb582b8ca43439237d6a7) - **docs:** update namespace table of contents [(#12947)](https://github.com/stdlib-js/stdlib/pull/12947) _(by stdlib-bot)_
 -   [`6e2e1fe`](https://github.com/stdlib-js/stdlib/commit/6e2e1feeedc61cb7fe91652568033cfbe9de276e) - **feat:** update `fft/base/fftpack` TypeScript declarations [(#12946)](https://github.com/stdlib-js/stdlib/pull/12946) _(by stdlib-bot)_
 -   [`46fd304`](https://github.com/stdlib-js/stdlib/commit/46fd304d00ac69f1fb6bb3eaa8965022724aa247) - **chore:** follow-up fixes for recent commits [(#12933)](https://github.com/stdlib-js/stdlib/pull/12933) _(by Philipp Burckhardt)_
