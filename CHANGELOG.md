@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-06-19)
+## Unreleased (2026-06-20)
 
 <section class="features">
 
@@ -39,6 +39,7 @@
 
 <details>
 
+-   [`a32ecf6`](https://github.com/stdlib-js/stdlib/commit/a32ecf65ed698f258b780d9e8dfa19fb672ca9c9) - **docs:** update namespace table of contents [(#12980)](https://github.com/stdlib-js/stdlib/pull/12980) _(by stdlib-bot)_
 -   [`1fec441`](https://github.com/stdlib-js/stdlib/commit/1fec4414065827d596de9c1203fb28be12971433) - **feat:** add `cosqi` to namespace _(by Athan Reines)_
 -   [`bc3b79f`](https://github.com/stdlib-js/stdlib/commit/bc3b79f4c32dd99b52b52046eb5d54a33197025e) - **feat:** add `fft/base/fftpack/cosqi` [(#12881)](https://github.com/stdlib-js/stdlib/pull/12881) _(by Gunj Joshi, Athan Reines)_
 -   [`118a1ea`](https://github.com/stdlib-js/stdlib/commit/118a1eaf28afc9be92abb582b8ca43439237d6a7) - **docs:** update namespace table of contents [(#12947)](https://github.com/stdlib-js/stdlib/pull/12947) _(by stdlib-bot)_

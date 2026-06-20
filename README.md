@@ -77,6 +77,7 @@ var o = ns;
 <div class="namespace-toc">
 
 -   <span class="signature">[`cffti( N, workspace, strideW, offsetW )`][@stdlib/fft/base/fftpack/cffti]</span><span class="delimiter">: </span><span class="description">initialize a workspace array for performing a complex-valued Fourier transform.</span>
+-   <span class="signature">[`cosqi( N, workspace, strideW, offsetW )`][@stdlib/fft/base/fftpack/cosqi]</span><span class="delimiter">: </span><span class="description">initialize a workspace array for performing a quarter-wave cosine transform.</span>
 -   <span class="signature">[`decompose( N, M, initial, si, oi, out, so, oo )`][@stdlib/fft/base/fftpack/decompose]</span><span class="delimiter">: </span><span class="description">factorize a sequence length into a product of integers.</span>
 -   <span class="signature">[`rffti( N, workspace, strideW, offsetW )`][@stdlib/fft/base/fftpack/rffti]</span><span class="delimiter">: </span><span class="description">initialize a workspace array for performing a real-valued Fourier transform.</span>
 
@@ -190,6 +191,8 @@ Copyright &copy; 2016-2026. The Stdlib [Authors][stdlib-authors].
 <!-- <toc-links> -->
 
 [@stdlib/fft/base/fftpack/cffti]: https://github.com/stdlib-js/fft-base-fftpack-cffti
+
+[@stdlib/fft/base/fftpack/cosqi]: https://github.com/stdlib-js/fft-base-fftpack-cosqi
 
 [@stdlib/fft/base/fftpack/decompose]: https://github.com/stdlib-js/fft-base-fftpack-decompose
 
