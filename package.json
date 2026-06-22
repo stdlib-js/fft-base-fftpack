@@ -40,6 +40,7 @@
     "@stdlib/fft-base-fftpack-cosqi": "github:stdlib-js/fft-base-fftpack-cosqi#main",
     "@stdlib/fft-base-fftpack-decompose": "github:stdlib-js/fft-base-fftpack-decompose#main",
     "@stdlib/fft-base-fftpack-rffti": "github:stdlib-js/fft-base-fftpack-rffti#main",
+    "@stdlib/fft-base-fftpack-sinqi": "github:stdlib-js/fft-base-fftpack-sinqi#main",
     "@stdlib/utils-define-read-only-property": "^0.2.3"
   },
   "devDependencies": {

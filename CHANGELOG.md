@@ -4,12 +4,14 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-06-20)
+## Unreleased (2026-06-22)
 
 <section class="features">
 
 ### Features
 
+-   [`e0d79b3`](https://github.com/stdlib-js/stdlib/commit/e0d79b3e195141fe8be6cd35ae732ade22dba34e) - add `sinqi` to namespace
+-   [`518afed`](https://github.com/stdlib-js/stdlib/commit/518afed323349adf17747b362ef905c2fbff393a) - add `fft/base/fftpack/sinqi` [(#13000)](https://github.com/stdlib-js/stdlib/pull/13000)
 -   [`3150638`](https://github.com/stdlib-js/stdlib/commit/31506381392d4e2f9e34b56db1201d32ddb328de) - update `fft/base/fftpack` TypeScript declarations [(#12979)](https://github.com/stdlib-js/stdlib/pull/12979)
 -   [`1fec441`](https://github.com/stdlib-js/stdlib/commit/1fec4414065827d596de9c1203fb28be12971433) - add `cosqi` to namespace
 -   [`bc3b79f`](https://github.com/stdlib-js/stdlib/commit/bc3b79f4c32dd99b52b52046eb5d54a33197025e) - add `fft/base/fftpack/cosqi` [(#12881)](https://github.com/stdlib-js/stdlib/pull/12881)
@@ -40,6 +42,8 @@
 
 <details>
 
+-   [`e0d79b3`](https://github.com/stdlib-js/stdlib/commit/e0d79b3e195141fe8be6cd35ae732ade22dba34e) - **feat:** add `sinqi` to namespace _(by Athan Reines)_
+-   [`518afed`](https://github.com/stdlib-js/stdlib/commit/518afed323349adf17747b362ef905c2fbff393a) - **feat:** add `fft/base/fftpack/sinqi` [(#13000)](https://github.com/stdlib-js/stdlib/pull/13000) _(by Gunj Joshi, Athan Reines)_
 -   [`3150638`](https://github.com/stdlib-js/stdlib/commit/31506381392d4e2f9e34b56db1201d32ddb328de) - **feat:** update `fft/base/fftpack` TypeScript declarations [(#12979)](https://github.com/stdlib-js/stdlib/pull/12979) _(by stdlib-bot)_
 -   [`a32ecf6`](https://github.com/stdlib-js/stdlib/commit/a32ecf65ed698f258b780d9e8dfa19fb672ca9c9) - **docs:** update namespace table of contents [(#12980)](https://github.com/stdlib-js/stdlib/pull/12980) _(by stdlib-bot)_
 -   [`1fec441`](https://github.com/stdlib-js/stdlib/commit/1fec4414065827d596de9c1203fb28be12971433) - **feat:** add `cosqi` to namespace _(by Athan Reines)_
