@@ -4,12 +4,13 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-06-22)
+## Unreleased (2026-06-23)
 
 <section class="features">
 
 ### Features
 
+-   [`e0a1edb`](https://github.com/stdlib-js/stdlib/commit/e0a1edb522bd6ea43ce3631dfc8355f50911503f) - update `fft/base/fftpack` TypeScript declarations [(#13077)](https://github.com/stdlib-js/stdlib/pull/13077)
 -   [`e0d79b3`](https://github.com/stdlib-js/stdlib/commit/e0d79b3e195141fe8be6cd35ae732ade22dba34e) - add `sinqi` to namespace
 -   [`518afed`](https://github.com/stdlib-js/stdlib/commit/518afed323349adf17747b362ef905c2fbff393a) - add `fft/base/fftpack/sinqi` [(#13000)](https://github.com/stdlib-js/stdlib/pull/13000)
 -   [`3150638`](https://github.com/stdlib-js/stdlib/commit/31506381392d4e2f9e34b56db1201d32ddb328de) - update `fft/base/fftpack` TypeScript declarations [(#12979)](https://github.com/stdlib-js/stdlib/pull/12979)
@@ -42,6 +43,8 @@
 
 <details>
 
+-   [`e0a1edb`](https://github.com/stdlib-js/stdlib/commit/e0a1edb522bd6ea43ce3631dfc8355f50911503f) - **feat:** update `fft/base/fftpack` TypeScript declarations [(#13077)](https://github.com/stdlib-js/stdlib/pull/13077) _(by stdlib-bot)_
+-   [`fb7ba7a`](https://github.com/stdlib-js/stdlib/commit/fb7ba7aa301480bcab339b75cc7562966292e365) - **docs:** update namespace table of contents [(#13079)](https://github.com/stdlib-js/stdlib/pull/13079) _(by stdlib-bot)_
 -   [`e0d79b3`](https://github.com/stdlib-js/stdlib/commit/e0d79b3e195141fe8be6cd35ae732ade22dba34e) - **feat:** add `sinqi` to namespace _(by Athan Reines)_
 -   [`518afed`](https://github.com/stdlib-js/stdlib/commit/518afed323349adf17747b362ef905c2fbff393a) - **feat:** add `fft/base/fftpack/sinqi` [(#13000)](https://github.com/stdlib-js/stdlib/pull/13000) _(by Gunj Joshi, Athan Reines)_
 -   [`3150638`](https://github.com/stdlib-js/stdlib/commit/31506381392d4e2f9e34b56db1201d32ddb328de) - **feat:** update `fft/base/fftpack` TypeScript declarations [(#12979)](https://github.com/stdlib-js/stdlib/pull/12979) _(by stdlib-bot)_
