@@ -10,6 +10,7 @@
 
 ### Features
 
+-   [`c07a2af`](https://github.com/stdlib-js/stdlib/commit/c07a2afaab794c69a3c551ec8f127b3e25ca81b8) - add `sinti` to namespace
 -   [`a2ccf2f`](https://github.com/stdlib-js/stdlib/commit/a2ccf2f5f10887c1ca821692cc4e62ee52892572) - add `fft/base/fftpack/sinti` [(#13338)](https://github.com/stdlib-js/stdlib/pull/13338)
 -   [`e0a1edb`](https://github.com/stdlib-js/stdlib/commit/e0a1edb522bd6ea43ce3631dfc8355f50911503f) - update `fft/base/fftpack` TypeScript declarations [(#13077)](https://github.com/stdlib-js/stdlib/pull/13077)
 -   [`e0d79b3`](https://github.com/stdlib-js/stdlib/commit/e0d79b3e195141fe8be6cd35ae732ade22dba34e) - add `sinqi` to namespace
@@ -45,6 +46,7 @@
 
 <details>
 
+-   [`c07a2af`](https://github.com/stdlib-js/stdlib/commit/c07a2afaab794c69a3c551ec8f127b3e25ca81b8) - **feat:** add `sinti` to namespace _(by Athan Reines)_
 -   [`1064df2`](https://github.com/stdlib-js/stdlib/commit/1064df276f7f7f0cdb8c08ed99d30d05b2b6742c) - **docs:** update examples [(#13349)](https://github.com/stdlib-js/stdlib/pull/13349) _(by stdlib-bot)_
 -   [`a2ccf2f`](https://github.com/stdlib-js/stdlib/commit/a2ccf2f5f10887c1ca821692cc4e62ee52892572) - **feat:** add `fft/base/fftpack/sinti` [(#13338)](https://github.com/stdlib-js/stdlib/pull/13338) _(by Gunj Joshi, Athan Reines)_
 -   [`9e84993`](https://github.com/stdlib-js/stdlib/commit/9e84993b1f0b52828c9ec431c543a82a4a9a288c) - **fix:** ensure correct twiddle factor placement [(#13170)](https://github.com/stdlib-js/stdlib/pull/13170) _(by Gunj Joshi)_
