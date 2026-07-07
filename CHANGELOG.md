@@ -4,12 +4,14 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-06-23)
+## Unreleased (2026-07-07)
 
 <section class="features">
 
 ### Features
 
+-   [`a2ccf2f`](https://github.com/stdlib-js/stdlib/commit/a2ccf2f5f10887c1ca821692cc4e62ee52892572) - add `fft/base/fftpack/sinti` [(#13338)](https://github.com/stdlib-js/stdlib/pull/13338)
+-   [`e0a1edb`](https://github.com/stdlib-js/stdlib/commit/e0a1edb522bd6ea43ce3631dfc8355f50911503f) - update `fft/base/fftpack` TypeScript declarations [(#13077)](https://github.com/stdlib-js/stdlib/pull/13077)
 -   [`e0d79b3`](https://github.com/stdlib-js/stdlib/commit/e0d79b3e195141fe8be6cd35ae732ade22dba34e) - add `sinqi` to namespace
 -   [`518afed`](https://github.com/stdlib-js/stdlib/commit/518afed323349adf17747b362ef905c2fbff393a) - add `fft/base/fftpack/sinqi` [(#13000)](https://github.com/stdlib-js/stdlib/pull/13000)
 -   [`3150638`](https://github.com/stdlib-js/stdlib/commit/31506381392d4e2f9e34b56db1201d32ddb328de) - update `fft/base/fftpack` TypeScript declarations [(#12979)](https://github.com/stdlib-js/stdlib/pull/12979)
@@ -30,6 +32,7 @@
 
 ### Bug Fixes
 
+-   [`9e84993`](https://github.com/stdlib-js/stdlib/commit/9e84993b1f0b52828c9ec431c543a82a4a9a288c) - ensure correct twiddle factor placement [(#13170)](https://github.com/stdlib-js/stdlib/pull/13170)
 -   [`22bbe10`](https://github.com/stdlib-js/stdlib/commit/22bbe10ad4b1d1d5929fe2d23f3c5318e97c7448) - update package name
 
 </section>
@@ -42,6 +45,10 @@
 
 <details>
 
+-   [`1064df2`](https://github.com/stdlib-js/stdlib/commit/1064df276f7f7f0cdb8c08ed99d30d05b2b6742c) - **docs:** update examples [(#13349)](https://github.com/stdlib-js/stdlib/pull/13349) _(by stdlib-bot)_
+-   [`a2ccf2f`](https://github.com/stdlib-js/stdlib/commit/a2ccf2f5f10887c1ca821692cc4e62ee52892572) - **feat:** add `fft/base/fftpack/sinti` [(#13338)](https://github.com/stdlib-js/stdlib/pull/13338) _(by Gunj Joshi, Athan Reines)_
+-   [`9e84993`](https://github.com/stdlib-js/stdlib/commit/9e84993b1f0b52828c9ec431c543a82a4a9a288c) - **fix:** ensure correct twiddle factor placement [(#13170)](https://github.com/stdlib-js/stdlib/pull/13170) _(by Gunj Joshi)_
+-   [`e0a1edb`](https://github.com/stdlib-js/stdlib/commit/e0a1edb522bd6ea43ce3631dfc8355f50911503f) - **feat:** update `fft/base/fftpack` TypeScript declarations [(#13077)](https://github.com/stdlib-js/stdlib/pull/13077) _(by stdlib-bot)_
 -   [`fb7ba7a`](https://github.com/stdlib-js/stdlib/commit/fb7ba7aa301480bcab339b75cc7562966292e365) - **docs:** update namespace table of contents [(#13079)](https://github.com/stdlib-js/stdlib/pull/13079) _(by stdlib-bot)_
 -   [`e0d79b3`](https://github.com/stdlib-js/stdlib/commit/e0d79b3e195141fe8be6cd35ae732ade22dba34e) - **feat:** add `sinqi` to namespace _(by Athan Reines)_
 -   [`518afed`](https://github.com/stdlib-js/stdlib/commit/518afed323349adf17747b362ef905c2fbff393a) - **feat:** add `fft/base/fftpack/sinqi` [(#13000)](https://github.com/stdlib-js/stdlib/pull/13000) _(by Gunj Joshi, Athan Reines)_
