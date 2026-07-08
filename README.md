@@ -81,6 +81,7 @@ var o = ns;
 -   <span class="signature">[`decompose( N, M, initial, si, oi, out, so, oo )`][@stdlib/fft/base/fftpack/decompose]</span><span class="delimiter">: </span><span class="description">factorize a sequence length into a product of integers.</span>
 -   <span class="signature">[`rffti( N, workspace, strideW, offsetW )`][@stdlib/fft/base/fftpack/rffti]</span><span class="delimiter">: </span><span class="description">initialize a workspace array for performing a real-valued Fourier transform.</span>
 -   <span class="signature">[`sinqi( N, workspace, strideW, offsetW )`][@stdlib/fft/base/fftpack/sinqi]</span><span class="delimiter">: </span><span class="description">initialize a workspace array for performing a quarter-wave sine transform.</span>
+-   <span class="signature">[`sinti( N, workspace, strideW, offsetW )`][@stdlib/fft/base/fftpack/sinti]</span><span class="delimiter">: </span><span class="description">initialize a workspace array for performing a sine transform.</span>
 
 </div>
 
@@ -200,6 +201,8 @@ Copyright &copy; 2016-2026. The Stdlib [Authors][stdlib-authors].
 [@stdlib/fft/base/fftpack/rffti]: https://github.com/stdlib-js/fft-base-fftpack-rffti
 
 [@stdlib/fft/base/fftpack/sinqi]: https://github.com/stdlib-js/fft-base-fftpack-sinqi
+
+[@stdlib/fft/base/fftpack/sinti]: https://github.com/stdlib-js/fft-base-fftpack-sinti
 
 <!-- </toc-links> -->
 
