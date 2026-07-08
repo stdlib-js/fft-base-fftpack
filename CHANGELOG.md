@@ -10,7 +10,6 @@
 
 ### Features
 
--   [`a18ec63`](https://github.com/stdlib-js/stdlib/commit/a18ec63f84f742f4835ddb233749c69b15566204) - update `fft/base/fftpack` TypeScript declarations [(#13368)](https://github.com/stdlib-js/stdlib/pull/13368)
 -   [`c07a2af`](https://github.com/stdlib-js/stdlib/commit/c07a2afaab794c69a3c551ec8f127b3e25ca81b8) - add `sinti` to namespace
 -   [`a2ccf2f`](https://github.com/stdlib-js/stdlib/commit/a2ccf2f5f10887c1ca821692cc4e62ee52892572) - add `fft/base/fftpack/sinti` [(#13338)](https://github.com/stdlib-js/stdlib/pull/13338)
 -   [`e0a1edb`](https://github.com/stdlib-js/stdlib/commit/e0a1edb522bd6ea43ce3631dfc8355f50911503f) - update `fft/base/fftpack` TypeScript declarations [(#13077)](https://github.com/stdlib-js/stdlib/pull/13077)
@@ -47,7 +46,6 @@
 
 <details>
 
--   [`a18ec63`](https://github.com/stdlib-js/stdlib/commit/a18ec63f84f742f4835ddb233749c69b15566204) - **feat:** update `fft/base/fftpack` TypeScript declarations [(#13368)](https://github.com/stdlib-js/stdlib/pull/13368) _(by stdlib-bot)_
 -   [`0cc2c79`](https://github.com/stdlib-js/stdlib/commit/0cc2c79290f4ad7d5a2d25f8a22a20b8e8d58693) - **docs:** update namespace table of contents [(#13369)](https://github.com/stdlib-js/stdlib/pull/13369) _(by stdlib-bot)_
 -   [`c6a6535`](https://github.com/stdlib-js/stdlib/commit/c6a6535236fd5c5915da6f8d54f6b8bb58515b69) - **docs:** enable lint rule and fix spacing in examples [(#13360)](https://github.com/stdlib-js/stdlib/pull/13360) _(by Philipp Burckhardt, Athan Reines)_
 -   [`c07a2af`](https://github.com/stdlib-js/stdlib/commit/c07a2afaab794c69a3c551ec8f127b3e25ca81b8) - **feat:** add `sinti` to namespace _(by Athan Reines)_
