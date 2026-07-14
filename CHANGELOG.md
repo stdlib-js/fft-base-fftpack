@@ -10,6 +10,7 @@
 
 ### Features
 
+-   [`bdfad08`](https://github.com/stdlib-js/stdlib/commit/bdfad08b1b7fab78bc1c6b31c507113b6a82a4b2) - update `fft/base/fftpack` TypeScript declarations [(#13463)](https://github.com/stdlib-js/stdlib/pull/13463)
 -   [`dc7ec06`](https://github.com/stdlib-js/stdlib/commit/dc7ec0603a2705d2fa555fa721c6eee343f0f4b1) - add `costi` to namespace
 -   [`ce67b15`](https://github.com/stdlib-js/stdlib/commit/ce67b15bf576cd0795cfc6d2775a11537cc23f17) - add `fft/base/fftpack/costi` [(#13200)](https://github.com/stdlib-js/stdlib/pull/13200)
 -   [`a18ec63`](https://github.com/stdlib-js/stdlib/commit/a18ec63f84f742f4835ddb233749c69b15566204) - update `fft/base/fftpack` TypeScript declarations [(#13368)](https://github.com/stdlib-js/stdlib/pull/13368)
@@ -51,6 +52,7 @@
 
 <details>
 
+-   [`bdfad08`](https://github.com/stdlib-js/stdlib/commit/bdfad08b1b7fab78bc1c6b31c507113b6a82a4b2) - **feat:** update `fft/base/fftpack` TypeScript declarations [(#13463)](https://github.com/stdlib-js/stdlib/pull/13463) _(by stdlib-bot)_
 -   [`dc7ec06`](https://github.com/stdlib-js/stdlib/commit/dc7ec0603a2705d2fa555fa721c6eee343f0f4b1) - **feat:** add `costi` to namespace _(by Athan Reines)_
 -   [`059dffa`](https://github.com/stdlib-js/stdlib/commit/059dffa1f48e361055345bfeba6bd8f7dfe08d3b) - **chore:** clean-up [(#13450)](https://github.com/stdlib-js/stdlib/pull/13450) _(by Philipp Burckhardt, Athan Reines)_
 -   [`bc812d5`](https://github.com/stdlib-js/stdlib/commit/bc812d5050c7e0cc43ecabbec465cbfa44ce8c3a) - **fix:** ensure correct twiddle factor placement in `fft/base/fftpack/cosqi` [(#13457)](https://github.com/stdlib-js/stdlib/pull/13457) _(by Gunj Joshi)_
