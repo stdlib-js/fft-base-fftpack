@@ -52,6 +52,7 @@
 
 <details>
 
+-   [`462801a`](https://github.com/stdlib-js/stdlib/commit/462801a8eb3659986bb713f55cb923faa976d881) - **docs:** update namespace table of contents [(#13465)](https://github.com/stdlib-js/stdlib/pull/13465) _(by stdlib-bot)_
 -   [`bdfad08`](https://github.com/stdlib-js/stdlib/commit/bdfad08b1b7fab78bc1c6b31c507113b6a82a4b2) - **feat:** update `fft/base/fftpack` TypeScript declarations [(#13463)](https://github.com/stdlib-js/stdlib/pull/13463) _(by stdlib-bot)_
 -   [`dc7ec06`](https://github.com/stdlib-js/stdlib/commit/dc7ec0603a2705d2fa555fa721c6eee343f0f4b1) - **feat:** add `costi` to namespace _(by Athan Reines)_
 -   [`059dffa`](https://github.com/stdlib-js/stdlib/commit/059dffa1f48e361055345bfeba6bd8f7dfe08d3b) - **chore:** clean-up [(#13450)](https://github.com/stdlib-js/stdlib/pull/13450) _(by Philipp Burckhardt, Athan Reines)_
