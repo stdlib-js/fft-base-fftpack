@@ -38,6 +38,7 @@
   "dependencies": {
     "@stdlib/fft-base-fftpack-cffti": "github:stdlib-js/fft-base-fftpack-cffti#main",
     "@stdlib/fft-base-fftpack-cosqi": "github:stdlib-js/fft-base-fftpack-cosqi#main",
+    "@stdlib/fft-base-fftpack-costi": "github:stdlib-js/fft-base-fftpack-costi#main",
     "@stdlib/fft-base-fftpack-decompose": "github:stdlib-js/fft-base-fftpack-decompose#main",
     "@stdlib/fft-base-fftpack-rffti": "github:stdlib-js/fft-base-fftpack-rffti#main",
     "@stdlib/fft-base-fftpack-sinqi": "github:stdlib-js/fft-base-fftpack-sinqi#main",
