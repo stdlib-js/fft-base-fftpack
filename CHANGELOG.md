@@ -10,6 +10,9 @@
 
 ### Features
 
+-   [`b835466`](https://github.com/stdlib-js/stdlib/commit/b8354666d8716077979d945e6d12c752bdcb280e) - add `rfftf` to namespace
+-   [`d0cfd95`](https://github.com/stdlib-js/stdlib/commit/d0cfd95d7f8157b9c39523f74fe17b6052b061de) - add `generic` to namespace
+-   [`f44d6b4`](https://github.com/stdlib-js/stdlib/commit/f44d6b4a054bd08f9022b6a00f910570f04f6405) - add `fft/base/fftpack/generic` namespace
 -   [`bec7095`](https://github.com/stdlib-js/stdlib/commit/bec70958b3da7b89f5bd3c3a56bb1237898c504e) - add `fft/base/fftpack/ndarray/generic/rffti`
 -   [`5a1fd30`](https://github.com/stdlib-js/stdlib/commit/5a1fd309d570433edb8b0957f0946bb736cdadf2) - add `fft/base/fftpack/generic/rfftf`
 -   [`bb70357`](https://github.com/stdlib-js/stdlib/commit/bb7035793a74bfdd1bb32ff8f6d9f6454dfdca97) - add `fft/base/fftpack/generic/sinqi`
@@ -166,6 +169,9 @@
 
 <details>
 
+-   [`b835466`](https://github.com/stdlib-js/stdlib/commit/b8354666d8716077979d945e6d12c752bdcb280e) - **feat:** add `rfftf` to namespace _(by Athan Reines)_
+-   [`d0cfd95`](https://github.com/stdlib-js/stdlib/commit/d0cfd95d7f8157b9c39523f74fe17b6052b061de) - **feat:** add `generic` to namespace _(by Athan Reines)_
+-   [`f44d6b4`](https://github.com/stdlib-js/stdlib/commit/f44d6b4a054bd08f9022b6a00f910570f04f6405) - **feat:** add `fft/base/fftpack/generic` namespace _(by Athan Reines)_
 -   [`4c7e8a1`](https://github.com/stdlib-js/stdlib/commit/4c7e8a1314064e7740e694ef6f7dbc29a78a4e91) - **remove:** remove `fft/base/fftpack/ndarray/rffti` _(by Gunj Joshi)_
 -   [`bec7095`](https://github.com/stdlib-js/stdlib/commit/bec70958b3da7b89f5bd3c3a56bb1237898c504e) - **feat:** add `fft/base/fftpack/ndarray/generic/rffti` _(by Gunj Joshi)_
 -   [`c1aecbe`](https://github.com/stdlib-js/stdlib/commit/c1aecbe937f7004ed690938ecae8cf96baae4d83) - **remove:** remove `fft/base/fftpack/rfftf` _(by Gunj Joshi)_
