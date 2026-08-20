@@ -10,6 +10,9 @@
 
 ### Features
 
+-   [`fd3c50f`](https://github.com/stdlib-js/stdlib/commit/fd3c50f4bc747e00984d5dcf64a0a800a1bd330e) - add `ndarray` to namespace
+-   [`1fadbac`](https://github.com/stdlib-js/stdlib/commit/1fadbacd16ab714985abb759fcb3989f16b5dc16) - add `fft/base/fftpack/ndarray` namespace
+-   [`c6ce075`](https://github.com/stdlib-js/stdlib/commit/c6ce075e8de00c48d1d6f54c51da806ab7004490) - add `fft/base/fftpack/ndarray/generic` namespace
 -   [`92b8505`](https://github.com/stdlib-js/stdlib/commit/92b8505dceeb6049ece7b2ed5369fb2c57fb9258) - update `fft/base/fftpack` TypeScript declarations [(#14430)](https://github.com/stdlib-js/stdlib/pull/14430)
 -   [`3c3b738`](https://github.com/stdlib-js/stdlib/commit/3c3b738090d3d810d744481d2795467348afdd29) - update `fft/base/fftpack/generic` TypeScript declarations [(#14429)](https://github.com/stdlib-js/stdlib/pull/14429)
 -   [`b835466`](https://github.com/stdlib-js/stdlib/commit/b8354666d8716077979d945e6d12c752bdcb280e) - add `rfftf` to namespace
@@ -171,6 +174,10 @@
 
 <details>
 
+-   [`fd3c50f`](https://github.com/stdlib-js/stdlib/commit/fd3c50f4bc747e00984d5dcf64a0a800a1bd330e) - **feat:** add `ndarray` to namespace _(by Athan Reines)_
+-   [`1fadbac`](https://github.com/stdlib-js/stdlib/commit/1fadbacd16ab714985abb759fcb3989f16b5dc16) - **feat:** add `fft/base/fftpack/ndarray` namespace _(by Athan Reines)_
+-   [`9154a91`](https://github.com/stdlib-js/stdlib/commit/9154a91779deb48c7048b11704fe54fa2c9786d4) - **docs:** update description _(by Athan Reines)_
+-   [`c6ce075`](https://github.com/stdlib-js/stdlib/commit/c6ce075e8de00c48d1d6f54c51da806ab7004490) - **feat:** add `fft/base/fftpack/ndarray/generic` namespace _(by Athan Reines)_
 -   [`92b8505`](https://github.com/stdlib-js/stdlib/commit/92b8505dceeb6049ece7b2ed5369fb2c57fb9258) - **feat:** update `fft/base/fftpack` TypeScript declarations [(#14430)](https://github.com/stdlib-js/stdlib/pull/14430) _(by stdlib-bot)_
 -   [`3c3b738`](https://github.com/stdlib-js/stdlib/commit/3c3b738090d3d810d744481d2795467348afdd29) - **feat:** update `fft/base/fftpack/generic` TypeScript declarations [(#14429)](https://github.com/stdlib-js/stdlib/pull/14429) _(by stdlib-bot)_
 -   [`f66e808`](https://github.com/stdlib-js/stdlib/commit/f66e808da3dc0cbdd927bfeacf62f06873ec3633) - **docs:** update namespace table of contents [(#14431)](https://github.com/stdlib-js/stdlib/pull/14431) _(by stdlib-bot)_
