@@ -10,6 +10,8 @@
 
 ### Features
 
+-   [`92b8505`](https://github.com/stdlib-js/stdlib/commit/92b8505dceeb6049ece7b2ed5369fb2c57fb9258) - update `fft/base/fftpack` TypeScript declarations [(#14430)](https://github.com/stdlib-js/stdlib/pull/14430)
+-   [`3c3b738`](https://github.com/stdlib-js/stdlib/commit/3c3b738090d3d810d744481d2795467348afdd29) - update `fft/base/fftpack/generic` TypeScript declarations [(#14429)](https://github.com/stdlib-js/stdlib/pull/14429)
 -   [`b835466`](https://github.com/stdlib-js/stdlib/commit/b8354666d8716077979d945e6d12c752bdcb280e) - add `rfftf` to namespace
 -   [`d0cfd95`](https://github.com/stdlib-js/stdlib/commit/d0cfd95d7f8157b9c39523f74fe17b6052b061de) - add `generic` to namespace
 -   [`f44d6b4`](https://github.com/stdlib-js/stdlib/commit/f44d6b4a054bd08f9022b6a00f910570f04f6405) - add `fft/base/fftpack/generic` namespace
@@ -169,6 +171,8 @@
 
 <details>
 
+-   [`92b8505`](https://github.com/stdlib-js/stdlib/commit/92b8505dceeb6049ece7b2ed5369fb2c57fb9258) - **feat:** update `fft/base/fftpack` TypeScript declarations [(#14430)](https://github.com/stdlib-js/stdlib/pull/14430) _(by stdlib-bot)_
+-   [`3c3b738`](https://github.com/stdlib-js/stdlib/commit/3c3b738090d3d810d744481d2795467348afdd29) - **feat:** update `fft/base/fftpack/generic` TypeScript declarations [(#14429)](https://github.com/stdlib-js/stdlib/pull/14429) _(by stdlib-bot)_
 -   [`f66e808`](https://github.com/stdlib-js/stdlib/commit/f66e808da3dc0cbdd927bfeacf62f06873ec3633) - **docs:** update namespace table of contents [(#14431)](https://github.com/stdlib-js/stdlib/pull/14431) _(by stdlib-bot)_
 -   [`b835466`](https://github.com/stdlib-js/stdlib/commit/b8354666d8716077979d945e6d12c752bdcb280e) - **feat:** add `rfftf` to namespace _(by Athan Reines)_
 -   [`d0cfd95`](https://github.com/stdlib-js/stdlib/commit/d0cfd95d7f8157b9c39523f74fe17b6052b061de) - **feat:** add `generic` to namespace _(by Athan Reines)_
