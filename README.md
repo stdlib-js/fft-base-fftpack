@@ -76,7 +76,8 @@ var o = ns;
 
 <div class="namespace-toc">
 
--   <span class="signature">[`base`][@stdlib/fft/base/fftpack/generic]</span><span class="delimiter">: </span><span class="description">FFTPACK routines for fast Fourier transforms on "generic" collections.</span>
+-   <span class="signature">[`generic`][@stdlib/fft/base/fftpack/generic]</span><span class="delimiter">: </span><span class="description">FFTPACK routines for fast Fourier transforms on "generic" collections.</span>
+-   <span class="signature">[`ndarray`][@stdlib/fft/base/fftpack/ndarray]</span><span class="delimiter">: </span><span class="description">lower-level ndarray wrappers for FFTPACK fast Fourier transform routines.</span>
 
 </div>
 
@@ -188,6 +189,8 @@ Copyright &copy; 2016-2026. The Stdlib [Authors][stdlib-authors].
 <!-- <toc-links> -->
 
 [@stdlib/fft/base/fftpack/generic]: https://github.com/stdlib-js/fft-base-fftpack-generic
+
+[@stdlib/fft/base/fftpack/ndarray]: https://github.com/stdlib-js/fft-base-fftpack-ndarray
 
 <!-- </toc-links> -->
 

@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-08-20)
+## Unreleased (2026-08-21)
 
 <section class="features">
 
@@ -174,6 +174,7 @@
 
 <details>
 
+-   [`0bb4e52`](https://github.com/stdlib-js/stdlib/commit/0bb4e5246b331085ed7828f2df71708e64156f41) - **chore:** clean-up [(#14443)](https://github.com/stdlib-js/stdlib/pull/14443) _(by Philipp Burckhardt)_
 -   [`fd3c50f`](https://github.com/stdlib-js/stdlib/commit/fd3c50f4bc747e00984d5dcf64a0a800a1bd330e) - **feat:** add `ndarray` to namespace _(by Athan Reines)_
 -   [`1fadbac`](https://github.com/stdlib-js/stdlib/commit/1fadbacd16ab714985abb759fcb3989f16b5dc16) - **feat:** add `fft/base/fftpack/ndarray` namespace _(by Athan Reines)_
 -   [`9154a91`](https://github.com/stdlib-js/stdlib/commit/9154a91779deb48c7048b11704fe54fa2c9786d4) - **docs:** update description _(by Athan Reines)_
