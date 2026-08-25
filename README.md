@@ -76,6 +76,8 @@ var o = ns;
 
 <div class="namespace-toc">
 
+-   <span class="signature">[`float32`][@stdlib/fft/base/fftpack/float32]</span><span class="delimiter">: </span><span class="description">FFTPACK routines for fast Fourier transforms on single-precision floating-point arrays.</span>
+-   <span class="signature">[`float64`][@stdlib/fft/base/fftpack/float64]</span><span class="delimiter">: </span><span class="description">FFTPACK routines for fast Fourier transforms on double-precision floating-point arrays.</span>
 -   <span class="signature">[`generic`][@stdlib/fft/base/fftpack/generic]</span><span class="delimiter">: </span><span class="description">FFTPACK routines for fast Fourier transforms on "generic" collections.</span>
 -   <span class="signature">[`ndarray`][@stdlib/fft/base/fftpack/ndarray]</span><span class="delimiter">: </span><span class="description">lower-level ndarray wrappers for FFTPACK fast Fourier transform routines.</span>
 
@@ -187,6 +189,10 @@ Copyright &copy; 2016-2026. The Stdlib [Authors][stdlib-authors].
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/fft-base-fftpack/main/LICENSE
 
 <!-- <toc-links> -->
+
+[@stdlib/fft/base/fftpack/float32]: https://github.com/stdlib-js/fft-base-fftpack-float32
+
+[@stdlib/fft/base/fftpack/float64]: https://github.com/stdlib-js/fft-base-fftpack-float64
 
 [@stdlib/fft/base/fftpack/generic]: https://github.com/stdlib-js/fft-base-fftpack-generic
 

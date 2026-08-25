@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-08-23)
+## Unreleased (2026-08-25)
 
 <section class="features">
 
@@ -188,6 +188,7 @@
 
 <details>
 
+-   [`09f72aa`](https://github.com/stdlib-js/stdlib/commit/09f72aaa0ca90f3f4c9a7b6b9b8ad492e05ef7b9) - **docs:** update namespace table of contents [(#14584)](https://github.com/stdlib-js/stdlib/pull/14584) _(by stdlib-bot)_
 -   [`bb426af`](https://github.com/stdlib-js/stdlib/commit/bb426afaa9a112d36c404373d4d632b59a4b20e9) - **feat:** add `float32` and `float64` to namespace _(by Athan Reines)_
 -   [`924fac8`](https://github.com/stdlib-js/stdlib/commit/924fac8e6b44b5df2482a709a0b8624f5d8682e5) - **feat:** add `fft/base/fftpack/float32` namespace _(by Athan Reines)_
 -   [`00a04aa`](https://github.com/stdlib-js/stdlib/commit/00a04aa41b85986ebcff9dba9f58bd42a36d0b1e) - **feat:** add `fft/base/fftpack/float64` namespace _(by Athan Reines)_
