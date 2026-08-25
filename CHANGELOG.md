@@ -10,6 +10,8 @@
 
 ### Features
 
+-   [`6356b69`](https://github.com/stdlib-js/stdlib/commit/6356b693350de4525827f10128c2ec7594098ce8) - update `fft/base/fftpack` TypeScript declarations [(#14583)](https://github.com/stdlib-js/stdlib/pull/14583)
+-   [`194dcbd`](https://github.com/stdlib-js/stdlib/commit/194dcbd266142900261e3170298936aecbddceec) - update `fft/base/fftpack/ndarray` TypeScript declarations [(#14582)](https://github.com/stdlib-js/stdlib/pull/14582)
 -   [`bb426af`](https://github.com/stdlib-js/stdlib/commit/bb426afaa9a112d36c404373d4d632b59a4b20e9) - add `float32` and `float64` to namespace
 -   [`924fac8`](https://github.com/stdlib-js/stdlib/commit/924fac8e6b44b5df2482a709a0b8624f5d8682e5) - add `fft/base/fftpack/float32` namespace
 -   [`00a04aa`](https://github.com/stdlib-js/stdlib/commit/00a04aa41b85986ebcff9dba9f58bd42a36d0b1e) - add `fft/base/fftpack/float64` namespace
@@ -188,6 +190,9 @@
 
 <details>
 
+-   [`6356b69`](https://github.com/stdlib-js/stdlib/commit/6356b693350de4525827f10128c2ec7594098ce8) - **feat:** update `fft/base/fftpack` TypeScript declarations [(#14583)](https://github.com/stdlib-js/stdlib/pull/14583) _(by stdlib-bot)_
+-   [`616ab2f`](https://github.com/stdlib-js/stdlib/commit/616ab2fb55db1f2f41049d50268204ce86ec071f) - **docs:** add JSDoc [(#14581)](https://github.com/stdlib-js/stdlib/pull/14581) _(by stdlib-bot)_
+-   [`194dcbd`](https://github.com/stdlib-js/stdlib/commit/194dcbd266142900261e3170298936aecbddceec) - **feat:** update `fft/base/fftpack/ndarray` TypeScript declarations [(#14582)](https://github.com/stdlib-js/stdlib/pull/14582) _(by stdlib-bot)_
 -   [`09f72aa`](https://github.com/stdlib-js/stdlib/commit/09f72aaa0ca90f3f4c9a7b6b9b8ad492e05ef7b9) - **docs:** update namespace table of contents [(#14584)](https://github.com/stdlib-js/stdlib/pull/14584) _(by stdlib-bot)_
 -   [`bb426af`](https://github.com/stdlib-js/stdlib/commit/bb426afaa9a112d36c404373d4d632b59a4b20e9) - **feat:** add `float32` and `float64` to namespace _(by Athan Reines)_
 -   [`924fac8`](https://github.com/stdlib-js/stdlib/commit/924fac8e6b44b5df2482a709a0b8624f5d8682e5) - **feat:** add `fft/base/fftpack/float32` namespace _(by Athan Reines)_
